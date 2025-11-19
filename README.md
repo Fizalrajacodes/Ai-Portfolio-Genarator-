@@ -206,6 +206,8 @@ npm run dev
 
 ## 📝 License & Contribution
 
+Feel free to fork, extend, and contribute. Please add a LICENSE file.
+
 MIT License  
 
 Copyright (c) 2025 Mohamed Fizal S  
